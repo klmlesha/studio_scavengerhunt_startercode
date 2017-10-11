@@ -1,0 +1,37 @@
+h1{
+    margin: auto;
+    width: 50%;
+    border: 3px;
+    padding: 10px;
+    color: #008B8B;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  transition: background-color 2s ease-out;
+}
+
+h2{
+    margin: auto;
+    width: 50%;
+    border: 3px;
+    padding: 10px;
+    color: #008B8B;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  transition: background-color 2s ease-out;
+   font-family: "Times New Roman", Times, sans-serif;
+
+}
+
+body{
+    background-color: #483C32;
+}
+
+p{
+ font-family: "Times New Roman", Times, serif;
+}
+
+
+
+  
