@@ -1,13 +1,20 @@
+@keyframes colorchange {
+    from {color: red;}
+    to {color: yellow;}
+}
+
 h1{
     margin: auto;
     width: 50%;
     border: 3px;
     padding: 10px;
-    color: #008B8B;
   margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
   transition: background-color 2s ease-out;
+     font-family: sans-serif;
+      animation-name: colorchange;
+    animation-duration: 4s;
 }
 
 h2{
@@ -20,7 +27,9 @@ h2{
   margin-left: auto;
   margin-right: auto;
   transition: background-color 2s ease-out;
-   font-family: "Times New Roman", Times, sans-serif;
+   font-family: sans-serif;
+    animation-name: colorchange;
+    animation-duration: 4s;
 
 }
 
@@ -29,9 +38,8 @@ body{
 }
 
 p{
- font-family: "Times New Roman", Times, serif;
+ font-family: serif;
 }
-
 
 
   
